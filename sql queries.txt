@@ -1,0 +1,15 @@
+Select the last name and job id from all employees whose department id is equal to Accounting.
+
+Find the first names of all employees whose salaries are greater than the minimum salary for the Manager
+
+Display the details of the employee working in Chicago
+
+List the employees drawing a salary more than Blake.
+
+List the salesmen who are drawing salary less than Miller
+
+Display the salesmen who are not in Boston.
+
+List the details of the employees along with their location
+
+Display the order date, shipping date along with customer name
